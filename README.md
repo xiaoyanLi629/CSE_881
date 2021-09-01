@@ -1,1 +1,7 @@
 # CSE_881
+
+## ABSTRACT
+Face recognition is a hot topic in machine learning. It is useful in many situations. Expression recognition is also a useful sub-field and have plenty of practical use. In this project, the team trained traditional classifiers and convolutional neural network on CK+ dataset and tested on AffectNet. Results have shown even a simple convolutional neural network could result in high training accuracy, but the accuracy on test set is poor. The traditional classifiers did not perform well on training nor test data.
+
+## INTRODUCTION
+Recognizing facial expression comes in natural for humans, but it is not necessarily an easy task for machine. It is challenging for machine because such task often involves high dimensional space. It the images are 50 × 50, then the dimension is already at a whooping 2500. There could be many potential application for such automatic expression detector. It could be used in lie detector to monitor change in micro expression, be implemented on online psychological consulting service to detect the status of the subject, and be applied in public safety to identify potential perpetrator a head of time. This project is an endeavor to develop classifiers to recognize human facial expression. The models developed did not perform well on the test set; nevertheless, over the course of this project, the team made great contribution and learned many frameworks, classifiers, and preprocessing techniques.
